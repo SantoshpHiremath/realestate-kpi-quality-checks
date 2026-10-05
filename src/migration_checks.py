@@ -1,8 +1,7 @@
 """
 Data migration / go-live validation checks: comparing a legacy-system
 export against a new-system export for completeness, accuracy, and
-consistency — the posting's own language for the "data migration and
-system go-live" task.
+consistency, as needed for a data migration and system go-live.
 """
 
 VALUE_MISMATCH_TOLERANCE_EUR = 1.0  # anything beyond this is a real

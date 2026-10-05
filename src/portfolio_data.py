@@ -3,10 +3,10 @@ Synthetic real estate property portfolio, modeled as if migrated from a
 legacy system to a new one — deliberately including realistic migration
 discrepancies (a property present in one system but not the other, a
 value mismatch beyond rounding, a missing income figure), the same kind
-of gap the posting's "testing and validating data and reports across
-legacy and new systems" task describes.
+of gap found when testing and validating data and reports across
+legacy and new systems.
 
-Not real PIMCO, Allianz, or any company's property data.
+All data is synthetic; none of it is any real company's property data.
 """
 
 from dataclasses import dataclass

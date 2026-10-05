@@ -18,9 +18,9 @@ INREV's fee/expense-ratio guidance centers on a Total Expense Ratio (TER):
 (source: INREV Fee and Expense Metrics guidelines, inrev.org)
 
 Both formulas below are the standard, publicly documented core
-calculation — this module applies them to a small synthetic portfolio,
-it does not claim to reproduce MSCI's or INREV's full index construction
-or governance process.
+calculation — this module applies them to a small synthetic portfolio
+and covers the core relationships, not full index construction or
+governance.
 """
 
 
